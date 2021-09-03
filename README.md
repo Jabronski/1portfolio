@@ -1,3 +1,3 @@
 Project: Landing / Portfolio mockup
 
-DEMO: https://jabronski.github.io/1portfolio/
+DEMO: https://jabronski.github.io/portfolio08-31
